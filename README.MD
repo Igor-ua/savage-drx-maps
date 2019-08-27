@@ -1,0 +1,1 @@
+Map storage of the Savage XR **Community Server**
